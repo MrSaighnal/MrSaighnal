@@ -7,7 +7,7 @@ Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a 
 - [Offensive Security Experienced Penetration Tester (OSEP)](https://www.credential.net/5b74f675-6917-483b-9df7-e51e080a8140)
 - [Offensive Security Web Expert (OSWE)](https://www.credential.net/85578f5d-238c-412d-8edd-f74201d10046) 
 - [Offensive Security Wifi Professional (OSWP)](https://www.credential.net/217b86d2-a1bb-460d-a664-d17e5c7539e9)
-- GIAC Penetration Tester (GPEN)
+- [GIAC Penetration Tester (GPEN)](https://www.giac.org/certified-professionals/?msc=main-nav)
 - [Certified Red Team Operator (CRTO)](https://eu.badgr.com/public/assertions/B3_s6eelTD6ZKiGbd63D4Q)
 - [Certified Red Team Professional (CRTP)](https://www.credential.net/80315b5d-a7bf-47ab-84ac-1495b00fe538)
 - [eLearnSecurity eXtreme Penetration Tester (eCPTX)](https://elearnsecurity.com/verify-certificate/)
