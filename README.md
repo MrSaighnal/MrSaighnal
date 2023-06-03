@@ -1,6 +1,6 @@
 ## Whoami
 
-Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a member of the [Advanced Persistence Tortellini](https://aptw.tf/about/) an Italian hackers' collective. I am Actually exploring the malware development world.
+Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a member of the [Advanced Persistence Tortellini](https://aptw.tf/about/) an Italian hackers' collective. Currently, I'm exploring the world of malware development.
 
 ## Certifications
 - Offensive Security Certified Professional (OSCP)
