@@ -19,7 +19,7 @@ Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a 
 - [APTortellini - https://aptw.tf](https://aptw.tf)
 
 ## Publications
-- Windows LED - An optical covert channel for Windows based systems - 2021
+- Windows LED - An optical covert channel for Windows-based systems - 2021
 - [Tortellini in Brodobuf](https://aptw.tf/2021/10/27/exploiting-protobuf-webapps.html) - 2021
 - [Multiple CVEs](https://cve.mitre.org/) - 2019-2022
 - [CTF Active Directory](https://pentestmag.com/product/pentest-active-directory-pentesting/) - 2020
