@@ -9,10 +9,10 @@ Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a 
 - [Offensive Security Wifi Professional (OSWP)](https://www.credential.net/217b86d2-a1bb-460d-a664-d17e5c7539e9)
 - GIAC Penetration Tester (GPEN)
 - [Certified Red Team Operator (CRTO)](https://eu.badgr.com/public/assertions/B3_s6eelTD6ZKiGbd63D4Q)
-- Certified Red Team Professional (CRTP)
-- eLearnSecurity eXtreme Penetration Tester (eCPTX)
-- eLearnSecurity Certified Professional Penetration Tester (eCPPT)
-- eLearnSecurity Junior Penetration Tester (eJPT)
+- [Certified Red Team Professional (CRTP)](https://www.credential.net/80315b5d-a7bf-47ab-84ac-1495b00fe538)
+- [eLearnSecurity eXtreme Penetration Tester (eCPTX)](https://elearnsecurity.com/verify-certificate/)
+- [eLearnSecurity Certified Professional Penetration Tester (eCPPT)](https://elearnsecurity.com/verify-certificate/)
+- [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/verify-certificate/)
 
 ## Blogs
 - [Personal Blog - https://mrsaighnal.github.io](https://mrsaighnal.github.io)
