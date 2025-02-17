@@ -15,10 +15,11 @@ Hello everyone, I'm MrSaighnal, a guy who enjoys offensive cybersecurity. I'm a 
 - [eLearnSecurity Junior Penetration Tester (eJPT)](https://elearnsecurity.com/verify-certificate/)
 
 ## Blogs
-- [Personal Blog - https://mrsaighnal.github.io](https://mrsaighnal.github.io)
+- [Personal Blog - https://blog.keephack.ing](https://blog.keephack.ing)
 - [APTortellini - https://aptw.tf](https://aptw.tf)
 
 ## Publications
+- [Houston, We Have a vulnerability](https://blog.keephack.ing/2025-02-17-Houston-We-Have-a-vulnerability/) - 2025
 - Windows LED - An optical covert channel for Windows-based systems - 2021
 - [Tortellini in Brodobuf](https://aptw.tf/2021/10/27/exploiting-protobuf-webapps.html) - 2021
 - [Multiple CVEs](https://cve.mitre.org/) - 2019-2022
